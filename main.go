@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 )
-
+//buble sort demo
 func main() {
   array := [] int{2,5,1,9,6,4,888,333,45,67,34,999,0,8,2,33,7};
   res := bubleSort(array)
